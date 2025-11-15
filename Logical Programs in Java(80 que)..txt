@@ -813,7 +813,7 @@ class PerfectInRange
 41.Count the number of words in a string.
 
 import java.util.*;
-class CountWords 
+class  
 {
     public static void main(String[] args) 
    {
