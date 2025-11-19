@@ -12,7 +12,7 @@ public class CollectionExample16
 		ArrayList listStr = list; 
 		ArrayList listBuf = list; 
 		listStr.add(0, "Hello"); 
-		StringBuffer buff =listBuf.get(0); 
+		Object buff =listBuf.get(0); 
 		System.out.println(buff.toString());
 	}
 

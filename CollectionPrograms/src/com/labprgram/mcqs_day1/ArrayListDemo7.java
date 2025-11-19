@@ -8,7 +8,7 @@ public class ArrayListDemo7
 	public static void main(String[] args) 
 	{
 	
-		ArrayList<String> list = new ArrayList<>(); 
+		ArrayList<Integer> list = new ArrayList<>(); 
 		list.add(12); 
 		list.add(16); 
 		list.add(34); 
